@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Nyleme
+- - 😄 Pronouns: She/Her
 - 👀 I’m interested in video games, reading, films/movies, and more!
 - 🌱 I’m currently learning how to become a top-tier quality assurance engineer
+- - ⚡ Fun fact: I have over two years experience working in case management and client advocacy!
 - 💞️ I’m looking to collaborate on softwares, applications, and sites geared towards socially impactful work!
-- ⚡ Fun fact: I have over two years experience working in case management and client advocacy!
-- 😄 Pronouns: She/Her
+
+
 
 
 <!---
