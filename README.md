@@ -147,4 +147,4 @@ Thanks for visiting my GitHub — feel free to explore my repositories, projects
 
 **© 2025 Nyleme Herrera**  
 This README was lovingly crafted to reflect the harmony between **technology** and **human impact**.
-<img width="513" height="3526" alt="image" src="https://github.com/user-attachments/assets/410e9ea9-c6fc-4c8d-81ba-d8cf1c04c61c" />
+
