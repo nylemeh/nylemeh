@@ -93,7 +93,7 @@ Program-based project testing a micromobility app enabling short-term, on-demand
 ---
 
 ### 🎮 [Clap.gg](#)
-**SEPT 2025 - CURRENT**  
+**SEPT 2025 - OCT 2025**  
 Freelance beta-testing for a bite-sized, AI-powered social game backed by Boost VC.  
 
 **Highlights:**
